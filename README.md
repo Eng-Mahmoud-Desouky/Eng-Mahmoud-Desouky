@@ -27,7 +27,7 @@ I specialize in creating fun, safe, and motivating learning environments — a p
 - Combining software and hardware to deliver complete, hands-on learning experiences.
 
 ## 📫 Let's Connect!
-- LinkedIn: [Mahmoud Desouky]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahmoud-desouky-75b561256/))
+- LinkedIn: ([Link](https://www.linkedin.com/in/mahmoud-desouky-75b56125))
 - Email: [Mahmoud Email](mahmouddesoukynp@gmail.com)
 
 ---
