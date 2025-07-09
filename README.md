@@ -18,7 +18,7 @@ My passion lies in simplifying technology for young learners and inspiring them 
 - Excellent Communication and Mentorship Skills
 
 ## 📚 Teaching Experience
-As a certified Parkour Head Coach, I have years of experience in training kids and teens.  
+As a Parkour Head Coach, I have years of experience in training kids and teens.  
 I specialize in creating fun, safe, and motivating learning environments — a philosophy I bring into the tech world when teaching programming and robotics.
 
 ## 🔥 Current Focus
