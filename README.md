@@ -1,35 +1,33 @@
-# 👋 Hello, I'm Mahmoud Desouky!
+# 👋 Hello, I'm Mahmoud Desouky
 
-🎯 A passionate Mobile App Developer and Technology Educator with a focus on creating engaging learning experiences through both software and hardware.
+**Software Engineer (Flutter) | Mobile Architect | B2B Technical Partner**
 
-## 🚀 About Me
-I'm an Engineering student with a strong background in Flutter mobile app development and hands-on experience with Arduino and robotics systems.  
-My passion lies in simplifying technology for young learners and inspiring them to build their own projects through fun, creative, and project-based approaches.
+I transform complex business requirements into scalable, production-ready mobile ecosystems. I specialize in building robust cross-platform applications using **Flutter** and strictly applying **Clean Architecture** principles to ensure zero technical debt, high maintainability, and predictable performance.
 
-- 📱 Mobile Apps Developer (Flutter | Dart)
-- 🤖 Embedded Systems Enthusiast (Arduino | Robotics)
+## 🚀 What I Do
+I act as a reliable technical arm for marketing agencies, software houses, and startups. Whether you need a rapid MVP to test the market or a complex FinTech/Logistics architecture, I deliver code that scales securely.
 
-## 🛠️ Skills
-- Flutter App Development
-- Arduino Programming and Robotics
-- git & github
-- Project-Based Teaching Techniques
-- Simplifying Technical Concepts for Young Audiences
-- Excellent Communication and Mentorship Skills
+- **B2B Technical Partnership:** Seamlessly integrating with creative agencies to bring UI/UX designs to life.
+- **Architectural Excellence:** Structuring apps using Clean Architecture, separating Domain, Data, and Presentation layers.
+- **End-to-End Delivery:** Managing the full mobile lifecycle from API integration (Supabase, REST) to store deployment.
 
-## 📚 Teaching Experience
-As a Parkour Head Coach, I have years of experience in training kids and teens.  
-I specialize in creating fun, safe, and motivating learning environments — a philosophy I bring into the tech world when teaching programming and robotics.
+## 🛠️ Tech Stack & Engineering Standards
+- **Frameworks & Languages:** Flutter, Dart
+- **Architecture & Patterns:** Clean Architecture, SOLID Principles, Dependency Injection, MVVM
+- **State Management:** BLoC, Riverpod, Provider
+- **Backend & Integrations:** Supabase, Firebase, RESTful APIs, WebSockets (Real-time data)
+- **Tooling & CI/CD:** Git, GitHub Actions, Agile/Scrum Workflow
 
-## 🔥 Current Focus
-- Developing educational mobile applications to assist tech learners.
-- Building interactive Arduino projects to teach STEM concepts to children.
-- Combining software and hardware to deliver complete, hands-on learning experiences.
+## 💼 Featured Capabilities
+- **FinTech & E-Commerce:** Local wallets, payment gateways routing, and live order tracking.
+- **Real-Time Operations:** Map tracking, driver-client synchronization, and complex dashboard integrations.
+- **AI-Driven MVPs:** Prompt engineering integrations and AI-based dynamic recommendations.
 
-## 📫 Let's Connect!
-- LinkedIn: ([Link](https://www.linkedin.com/in/mahmoud-desouky-75b56125))
-- Email: [Mahmoud Email](mahmouddesoukynp@gmail.com)
+## 📫 Let's Build Something Solid
+Available for milestone-based tasks, MVP development, and technical partnerships.
+
+- **LinkedIn:** [Mahmoud Desouky](https://www.linkedin.com/in/mahmoud-desouky-75b56125)
+- **Email:** [mahmouddesoukynp@gmail.com](mailto:mahmouddesoukynp@gmail.com)
 
 ---
-
-_"Technology is best learned when it is felt, built, and played with."_
+_"Great UI is expected; clean, scalable, and maintainable code is what protects your business."_
