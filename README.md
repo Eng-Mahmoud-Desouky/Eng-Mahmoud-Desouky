@@ -27,7 +27,7 @@ I act as a reliable technical arm for marketing agencies, software houses, and s
 Available for milestone-based tasks, MVP development, and technical partnerships.
 
 - **LinkedIn:** [Mahmoud Desouky](https://www.linkedin.com/in/mahmoud-desouky-75b56125)
-- **Email:** [mahmouddesoukynp@gmail.com](mailto:mahmouddesoukynp@gmail.com)
+- **Email:** [mahmoud@mahmouddesouky.com](mailto:mahmoud@mahmouddesouky.com)
 
 ---
 _"Great UI is expected; clean, scalable, and maintainable code is what protects your business."_
